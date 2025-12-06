@@ -2,7 +2,11 @@
 
 **Desenvolvedor Mobile | React Native Specialist**
 
-Me chamo **João Victor de Sá**, tenho 27 anos e sou de Vila Velha-ES. Minha formação inicial é em Engenharia de Controle e Automação, e atualmente estou aprofundando meus conhecimentos no mundo tech cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou um profissional **apaixonado por tecnologia** e com mais de **5 anos de experiência focada em React Native**, desenvolvendo soluções robustas e de alta performance para mobile.
+Sou Desenvolvedor Mobile especializado em React Native, com mais de 5 anos de experiência construindo aplicativos de alta performance para ambientes corporativos. Minha expertise inclui desenvolvimento offline-first utilizando Realm e WatermelonDB, garantindo confiabilidade e sincronização eficiente mesmo em cenários de conectividade limitada.
+
+Tenho experiência sólida em integrações complexas, incluindo comunicação com sistemas SAP, além de atuar no design e implementação de soluções escaláveis voltadas para produtividade, automação e mobilidade empresarial.
+
+Focado em qualidade, arquitetura limpa e experiência do usuário, desenvolvo aplicações robustas, seguras e prontas para escalar.
 
 Você pode me encontrar no 
 
