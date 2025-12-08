@@ -1,14 +1,15 @@
 # 👨‍💻 João Victor de Sá
 
-**Desenvolvedor Mobile | React Native Specialist**
+**Mobile Developer | React Native Specialist**
 
-Sou Desenvolvedor Mobile especializado em React Native, com mais de 5 anos de experiência construindo aplicativos de alta performance para ambientes corporativos. Minha expertise inclui desenvolvimento offline-first utilizando Realm e WatermelonDB, garantindo confiabilidade e sincronização eficiente mesmo em cenários de conectividade limitada.
 
-Tenho experiência sólida em integrações complexas, incluindo comunicação com sistemas SAP, além de atuar no design e implementação de soluções escaláveis voltadas para produtividade, automação e mobilidade empresarial.
+I am a Mobile Developer specializing in React Native, with over 5 years of experience building high-performance applications for enterprise environments. My expertise includes offline-first development using Realm and WatermelonDB, ensuring reliability and efficient synchronization even in scenarios with limited connectivity.
 
-Focado em qualidade, arquitetura limpa e experiência do usuário, desenvolvo aplicações robustas, seguras e prontas para escalar.
+I have solid experience in complex integrations, including communication with SAP systems, in addition to working on the design and implementation of scalable solutions focused on productivity, automation, and enterprise mobility.
 
-Você pode me encontrar no 
+Focused on quality, clean architecture, and user experience, I develop robust, secure, and scalable applications.
+
+You can find me at
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/jo%C3%a3o-victor-de-s%C3%a1-296805197/)
